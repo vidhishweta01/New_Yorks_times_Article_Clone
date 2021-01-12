@@ -103,7 +103,7 @@ nav {
   position: absolute;
   width: 13%;
   font-size: 9px;
-  top: 165px;
+  top: 150px;
 }
 
 .cosmos {
@@ -111,7 +111,7 @@ nav {
   width: 20%;
   position: absolute;
   left: 210px;
-  top: 165px;
+  top: 150px;
 }
 
 .telescope {
@@ -119,7 +119,7 @@ nav {
   width: 20%;
   position: absolute;
   left: 480px;
-  top: 165px;
+  top: 150px;
 }
 
 .coffee {
@@ -127,20 +127,20 @@ nav {
   width: 20%;
   position: absolute;
   left: 725px;
-  top: 165px;
+  top: 150px;
 }
 
 .time {
   position: absolute;
   width: 20%;
-  top: 445px;
+  top: 400px;
   font-size: 11px;
 }
 
 .problem {
   position: absolute;
   width: 20%;
-  top: 445px;
+  top: 400px;
   font-size: 11px;
   left: 230px;
 }
@@ -148,7 +148,7 @@ nav {
 .flactuation {
   position: absolute;
   width: 20%;
-  top: 445px;
+  top: 400px;
   font-size: 11px;
   left: 480px;
 }
@@ -156,7 +156,7 @@ nav {
 .expansion {
   position: absolute;
   width: 20%;
-  top: 445px;
+  top: 400px;
   font-size: 11px;
   left: 725px;
 }
@@ -179,7 +179,7 @@ aside {
 }
 
 .by {
-  margin-top: 20px
+  margin-top: 140px;
 }
 
 .first_line {
