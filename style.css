@@ -1,0 +1,53 @@
+nav {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+  justify-content: space-between;
+}
+
+.nav_left {
+  display: flex;
+  padding-left: 50px;
+}
+
+.dropdown,
+.search {
+  padding-right: 4px;
+}
+
+.logo {
+  width: 140px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.gun {
+  width: 400px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.icons_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.icons {
+  display: flex;
+  width: 20%;
+  padding-right: 390px;
+  justify-content: flex-start;
+}
+
+.fa-facebook,
+.fa-twitter-square,
+.fa-envelope,
+.fa-share,
+.fa-sign-in-alt {
+  padding-right: 21px;
+}
