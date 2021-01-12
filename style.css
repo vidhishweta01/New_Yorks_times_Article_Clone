@@ -3,6 +3,8 @@ nav {
   align-items: center;
   height: 10vh;
   justify-content: space-between;
+  border-bottom: 1px solid gray;
+  border-top: 1px solid gray;
 }
 
 .nav_left {
@@ -50,4 +52,50 @@ nav {
 .fa-share,
 .fa-sign-in-alt {
   padding-right: 21px;
+}
+
+.buttons {
+  padding-right: 20px;
+}
+
+.man_container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.man_container img {
+  width: 1000px;
+}
+
+.article {
+  background-color: green;
+  width: 50vw;
+  margin-left: 25vw;
+}
+
+.wording {
+  width: 80%;
+  background-color: hotpink;
+}
+
+.break::after {
+  content: "\a\a";
+  white-space: pre;
+}
+
+.picture {
+  position: relative;
+}
+
+.theory {
+  width: 100%;
+  margin-top: 25px;
+}
+
+.universe {
+  position: absolute;
+  width: 20%;
+  top: 130px;
+  font-size: 10px;
 }
