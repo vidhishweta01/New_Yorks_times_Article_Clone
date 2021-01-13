@@ -218,8 +218,8 @@ iframe {
 }
 
 .bottom_section {
-  width: 92rem;
-  margin-left: 6.5rem;
+  width: 70%;
+  margin-left: 150px;
 }
 
 .bottom_logo {
@@ -231,11 +231,9 @@ iframe {
 }
 
 .home {
-  position: fixed;
-  top: 1mm;
-  right: 35rem;
-  font-size: 4mm;
   color: blue;
+  position: absolute;
+  left: 1050px;
 }
 
 .bot_list {
