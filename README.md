@@ -1,7 +1,7 @@
 
 Project Name New York Time Article Clone
 
-![Alt text](/images/screenshoot.png.jpg?raw=true "New York times clone")
+![Alt text](/images/Screenshot.jpg?raw=true "New York times clone")
 
 In this project, we built:
 
