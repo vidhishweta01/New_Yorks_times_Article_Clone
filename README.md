@@ -9,7 +9,7 @@ A clone of a New York times article which can be found in https://www.nytimes.co
 
 Used CSS selectors correctly; Used HTML elements box model (margin, padding, width, height); Used industry-standard tools (flexbox) to place elements in the page; Applied front-end best practices; Used CSS flexbox; Applied HTML and CSS linter errors detectors. Built with HTML and CSS.
 
-Live Demo https://erezfree29.github.io/new-york-times/
+Live Demo https://erezfree29.github.io/New_Yorks_times_Article_Clone/
 
 Author Erez Friemagor
 
@@ -18,6 +18,11 @@ Github: @erezfree29
 Twitter: https://twitter.com/friemagor
 
 Linkedin: https://www.linkedin.com/in/erez-friemagor-3b0bab145/
+
+Author shweta srivastava
+
+Github :vidhishweta01
+linkedin.com/in/shweta-s-15a57070
 
 handshake Contributing Contributions, issues and feature requests are welcome! Start by:
 
